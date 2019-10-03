@@ -1363,5 +1363,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/opt/lampp/htdocs"
+    "pickerWorkingDir": "/opt/lampp/htdocs",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///opt/lampp/htdocs/www",
+            "backupPath": "/opt/lampp/htdocs/www/~/.vscode-root/Backups/557795bff83a7b975ddf5390f6b2f9b4",
+            "uiState": {
+                "mode": 1,
+                "x": 855,
+                "y": 34,
+                "width": 1024,
+                "height": 1006
+            }
+        },
+        "openedWindows": []
+    }
 }
